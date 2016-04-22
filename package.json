@@ -1,0 +1,19 @@
+{
+  "name": "basic-react-materialize",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.12.3",
+    "browserify": "^13.0.0",
+    "exorcist": "^0.4.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "jquery": "^2.2.3",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-materialize": "^0.14.3",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
